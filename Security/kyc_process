@@ -1,0 +1,46 @@
+# KYC Process for FundManagement
+
+## Introduction
+Know Your Customer (KYC) is an essential process aimed at identifying and verifying the identities of clients to mitigate the risks of fraud and ensure compliance with regulatory standards. This document outlines the KYC process implemented for the **FundManagement** platform, detailing each step to enhance transparency and security.
+
+## KYC Process Overview
+
+### 1. User Registration
+- **Account Creation**: Users must register an account on the FundManagement platform before engaging in any financial transactions.
+- **Required Information**: During registration, users are required to provide comprehensive personal information, including:
+  - **Full Name**: As it appears on legal documents.
+  - **Date of Birth**: To confirm age eligibility.
+  - **Residential Address**: Current and permanent address.
+  - **Email Address**: For communication and verification purposes.
+  - **Phone Number**: To verify identity and for two-factor authentication.
+
+### 2. Document Verification
+- **Required Documents**: Users must submit the following documents for verification:
+  - **Government-issued ID**: Such as a passport, driver’s license, or national ID card, to verify identity.
+  - **Proof of Address**: Such as a utility bill, bank statement, or lease agreement, dated within the last three months, to confirm residency.
+- **Document Submission Process**: Documents can be uploaded securely through the platform's interface, ensuring a seamless user experience.
+
+### 3. Identity Verification
+- **Verification Process**: The submitted documents undergo verification through a secure identity verification service that utilizes advanced technologies such as Optical Character Recognition (OCR) and facial recognition.
+- **Biometric Verification**: Users may be required to take a selfie or video to confirm that their live image matches the government-issued ID, enhancing the accuracy of the verification process.
+
+### 4. Approval or Rejection
+- **Notification**: Upon successful verification, users will receive an approval notification via email, detailing their account activation.
+- **Rejection Process**: If verification fails, users are promptly notified of the reasons for rejection. Users have the option to address the issues and resubmit their documents for reevaluation.
+
+### 5. Data Storage and Security
+- **Data Protection**: All personal information and documents are securely stored and encrypted using industry-standard encryption protocols to protect against unauthorized access.
+- **Access Control**: Access to sensitive data is strictly limited to authorized personnel, with regular audits to ensure compliance with access policies.
+- **Data Retention Policy**: User data is retained only for as long as necessary to comply with legal obligations, and users are informed of their rights regarding their data.
+
+### 6. Compliance
+- **Regulatory Adherence**: The KYC process adheres to applicable laws and regulations, including anti-money laundering (AML) requirements set forth by governing bodies.
+- **Regular Audits**: The KYC procedures are subject to regular internal and external audits to ensure compliance with regulatory standards and to identify potential areas for improvement.
+- **Training and Awareness**: Staff involved in the KYC process receive regular training on compliance policies and procedures to maintain high standards of security and regulatory compliance.
+
+## Conclusion
+Implementing a robust KYC process significantly enhances the security of the FundManagement platform and fosters user trust. By adhering to compliance requirements and maintaining stringent verification standards, the platform effectively mitigates risks associated with fraudulent activities while ensuring a secure environment for all users.
+
+### Additional Resources
+- [Financial Action Task Force (FATF) Guidelines](https://www.fatf-gafi.org/)
+- [Know Your Customer (KYC) Guidelines](https://www.financialcrimeacademy.com/kyc-guidelines)
